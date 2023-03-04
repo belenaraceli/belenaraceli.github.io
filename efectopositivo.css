@@ -303,7 +303,6 @@
     	display: flex;
     	align-items: center;
     	justify-content: center;
-    	flex-basis: 100%;
     }
 
 @media screen and (max-width: 700px) {
@@ -368,8 +367,8 @@
     
     .video {
     margin-top: -10px;
-    padding: 0% 15%;
-    margin-bottom: 100px;
+    margin-right: -10%;
+    margin-left: -10%;
     }
  }
 /* Footer */
