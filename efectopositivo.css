@@ -364,9 +364,9 @@
     }
     
     .video {
-    margin-top: -10px;
-    margin-right: -10%;
-    margin-left: -10%;
+    margin-top: 45px;
+    margin-right: -17%;
+    margin-left: -17%;
     }
  }
 /* Footer */
@@ -375,6 +375,7 @@
 		flex-basis: 100%;
 		min-height: 100px;
 		background-color: black;
+		margin-top: 30px;
 	}
 
 
