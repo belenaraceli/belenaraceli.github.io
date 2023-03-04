@@ -362,7 +362,6 @@
 	background-color: black;
 	background-image: url("main.png");
 	background-size: contain;
-	flex-basis: 100%;
     }
     
     .video {
